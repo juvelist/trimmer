@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trimmer/static/css/main.e6c13ad2.css",
+    "main.js": "/trimmer/static/js/main.4e369ae6.js",
+    "static/js/787.442282d3.chunk.js": "/trimmer/static/js/787.442282d3.chunk.js",
+    "index.html": "/trimmer/index.html",
+    "main.e6c13ad2.css.map": "/trimmer/static/css/main.e6c13ad2.css.map",
+    "main.4e369ae6.js.map": "/trimmer/static/js/main.4e369ae6.js.map",
+    "787.442282d3.chunk.js.map": "/trimmer/static/js/787.442282d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4e369ae6.js"
+  ]
+}
