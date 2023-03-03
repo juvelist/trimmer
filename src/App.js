@@ -1,9 +1,9 @@
 import './App.css';
-import {TrimmerWrapper} from './components/TrimmerWrapper';
+import {TrimmerContainer} from './components/TrimmerContainer';
 
 function App() {
   return (
-    <TrimmerWrapper/>
+    <TrimmerContainer/>
   );
 }
 
